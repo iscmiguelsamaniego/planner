@@ -77,7 +77,7 @@ fun RowScope.AddItem(
         alwaysShowLabel = true,
         onClick = {},
         colors =  NavigationBarItemDefaults.colors(
-            //selectedIconColor = colorResource(id = R.color.orange), //this is selected icon color
+            //selectedIconColor = colorResource(id = R.color.orange),
             selectedTextColor = colorResource(id = R.color.darkblue),
             indicatorColor = colorResource(id = R.color.ligthblue),//this is the color of the inner chips
             //unselectedIconColor = colorResource(id = R.color.black),
